@@ -73,3 +73,5 @@ html[data-theme=dark]{--page:#0d1410;--panel:#15201a;--ink:#e5ebe5;--muted:#92a2
 .film-screen>video.queued-video{opacity:0!important;pointer-events:none;z-index:0}.film-screen #stageVideo{z-index:2}.hero-track #heroProgress{width:100%;transform-origin:left;transform:scaleX(0);transition:none}.film-screen{contain:layout paint}.project-index{contain:layout}
 
 .hero-demo[data-motion=paused] .voice-bars i{animation-play-state:paused!important}
+
+.demo-bottom{display:none!important}
