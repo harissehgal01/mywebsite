@@ -2,7 +2,7 @@ window.CINEMA_ASSETS={"assets/01-sheets-mobile.mp4":"assets/01-sheets-mobile.c42
 window.ALACRITY_PROJECTS=[
   {
     "id": "sheets",
-    "name": "SheetsPK",
+    "name": "Sheets",
     "type": "Orders & daily accounts",
     "category": "apps",
     "file": "01-sheets",
